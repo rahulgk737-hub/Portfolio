@@ -1,0 +1,19 @@
+.anaconda{
+  border : 2px solid black;
+ border-radius: 1px solid;
+ width: 30%;
+ font-family: cursive;
+ color: white;
+}
+.input{
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  color :#222222
+  
+}
+.label{
+  color: #00FFFF;
+  width: 140px;
+  text-align: right;
+  font-weight: bold;}

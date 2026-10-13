@@ -1,0 +1,15 @@
+form{
+    
+    border-radius: 12px;
+    width : 25%;
+    margin-left: 50%;
+    background-color: lightgreen;
+    height : 45vh;
+    margin : 2px;
+    
+}
+input{
+    background-color: aqua;
+    width : 45%;
+    
+}

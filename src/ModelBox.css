@@ -1,0 +1,12 @@
+.modal{
+  border-radius: 12px;
+  background-color: blue;
+  background-color: lightgreen;
+  width: 15%;
+  margin-left: 43%;
+  position :absolute;
+}
+.modelBox{
+    margin : 0;
+    
+}
